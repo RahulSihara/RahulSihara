@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RahulSihara
-- 👀 I’m interested in knowing people and how tech impacts individuals. 
+- 👀 I’m interested in knowing how tech impacts individuals. 
 - 🌱 I’m currently learning mobile app development on Android & shift/ Change in society due to advancements in AI space. 
 - 💞️ I’m looking to collaborate on building web systems or mobile apps leveraging AI tools to provide equal opportunity/access to all classes of people. 
 - 📫 How to reach me rsihara@asu.edu
